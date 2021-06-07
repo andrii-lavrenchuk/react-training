@@ -1,0 +1,17 @@
+[
+  {
+    "id": "id-1",
+    "text": "Вивчити React",
+    "completed": false
+  },
+  {
+    "id": "id-2",
+    "text": "Розібратись з React Router",
+    "completed": false
+  },
+  {
+    "id": "id-3",
+    "text": "Опанувати Redux",
+    "completed": false
+  }
+]
